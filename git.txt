@@ -1,0 +1,13 @@
+git clone - Click on clone and choose from an existing repo on github like this one that I cloned.
+so you can create a branch by typing ctrl + shift + p and go to git create new branch and publish using cloud icon on the branch 
+stage changes using ctrl + shift + p and staging the changes then use commit with a message and then push using the up-arrow icon 
+in commits section.
+Okay so till now 
+
+I've made a -- 
+--> new branch 
+--> staged changes 
+--> committed em and 
+--> pushed em to a separate branch 
+--> Stashed changes using git stash (it temporarily saves your changes and then you can switch branch work on other branch and then again pop 
+stash to get your changes on this branch)

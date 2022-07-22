@@ -11,3 +11,5 @@ I've made a --
 --> pushed em to a separate branch 
 --> Stashed changes using git stash (it temporarily saves your changes and then you can switch branch work on other branch and then again pop 
 stash to get your changes on this branch)
+--> Create a pull request using ctrl + shift + p and going into pull req then comment if you want then reading
+view of the pr then merge it.

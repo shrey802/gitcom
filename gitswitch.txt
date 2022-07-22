@@ -1,0 +1,2 @@
+Use gitswitch using ctrl + shift + p and switch but remember to commit or stash your changes to branch before switching branch
+ 

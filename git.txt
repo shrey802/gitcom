@@ -1,2 +1,4 @@
 git clone - Click on clone and choose from an existing repo on github like this one that I cloned.
 so you can create a branch by typing ctrl + shift + p and go to git create new branch and publish using cloud icon on the branch 
+stage changes using ctrl + shift + p and staging the changes then use commit with a message and then push using the up-arrow icon 
+in commits section.
